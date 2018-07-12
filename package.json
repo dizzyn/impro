@@ -1,0 +1,23 @@
+{
+  "name": "impro",
+  "version": "1.0.0",
+  "description": "Web: https://dizzyn.github.io/impro/",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dizzyn/impro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dizzyn/impro/issues"
+  },
+  "homepage": "https://github.com/dizzyn/impro#readme"
+}
